@@ -167,7 +167,7 @@
             <version>2.2</version>
             <configuration>
                 <server>tomcat</server>
-                <url>http://35.154.72.207:8080/manager/text</url>
+                <url>http://35.154.72.20:8080/manager/text</url>
                  <path>/webapp</path>   //Configure application root URL
             </configuration>
         </plugin>
